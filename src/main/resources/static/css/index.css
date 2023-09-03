@@ -1,0 +1,22 @@
+/* Estilo para el contenedor principal */
+.container {
+    text-align: center; /* Centrar el contenido en horizontal */
+    margin-top: 20vh; /* Centrar verticalmente */
+}
+
+/* Estilo para el encabezado h1 */
+h1 {
+    font-size: 28px;
+    color: #333;
+}
+
+/* Estilo para los enlaces de navegación */
+.nav-link {
+    color: #007bff; /* Color del enlace */
+    text-decoration: none; /* Quitar subrayado */
+}
+
+/* Estilo para los enlaces al pasar el cursor */
+.nav-link:hover {
+    text-decoration: underline; /* Subrayar al pasar el cursor */
+}
